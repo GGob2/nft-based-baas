@@ -10,6 +10,6 @@
       }
     ],
     "description": "The world's most adorable and sensitive pup.",
-    "image": "ipfs://img_address", 
+    "image": "https://****.s3.ap-northeast-2.amazonaws.com/nft-test-img/mj_nft.PNG", 
     "name": "mj's_sign"
   }
