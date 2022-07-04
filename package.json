@@ -1,0 +1,23 @@
+{
+  "name": "nft-based-baas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGob2/nft-based-baas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GGob2/nft-based-baas/issues"
+  },
+  "homepage": "https://github.com/GGob2/nft-based-baas#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.0",
+    "web3": "^1.7.4"
+  }
+}
