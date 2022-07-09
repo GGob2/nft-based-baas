@@ -1,0 +1,69 @@
+INFO [07-07|23:08:29.936] Maximum peer count                       ETH=50 LES=0 total=50
+INFO [07-07|23:08:30.238] Set global gas cap                       cap=25000000
+INFO [07-07|23:08:30.238] Allocated trie memory caches             clean=256.00MiB dirty=256.00MiB
+INFO [07-07|23:08:30.238] Allocated cache and file handles         database="C:\\Users\\MyungJoe Kang\\Desktop\\대학원\\[ASK 2022]\\nft-based-bass\\private_net\\geth\\chaindata" cache=512.00MiB handles=8192
+INFO [07-07|23:08:30.277] Opened ancient database                  database="C:\\Users\\MyungJoe Kang\\Desktop\\대학원\\[ASK 2022]\\nft-based-bass\\private_net\\geth\\chaindata\\ancient"
+INFO [07-07|23:08:30.277] Writing default main-net genesis block 
+INFO [07-07|23:08:30.465] Persisted trie from memory database      nodes=12356 size=1.78MiB time=49.2714ms gcnodes=0 gcsize=0.00B gctime=0s livenodes=1 livesize=0.00B
+INFO [07-07|23:08:30.465] Initialised chain configuration          config="{ChainID: 1 Homestead: 1150000 DAO: 1920000 DAOSupport: true EIP150: 2463000 EIP155: 2675000 EIP158: 2675000 Byzantium: 4370000 Constantinople: 7280000 Petersburg: 7280000 Istanbul: 9069000, Muir Glacier: 9200000, YOLO v2: <nil>, Engine: ethash}"
+INFO [07-07|23:08:30.466] Disk storage enabled for ethash caches   dir="C:\\Users\\MyungJoe Kang\\Desktop\\대학원\\[ASK 2022]\\nft-based-bass\\private_net\\geth\\ethash" count=3
+INFO [07-07|23:08:30.466] Disk storage enabled for ethash DAGs     dir="C:\\Users\\MyungJoe Kang\\AppData\\Local\\Ethash" count=2
+INFO [07-07|23:08:30.466] Initialising Ethereum protocol           versions="[65 64 63]" network=10 dbversion=<nil>
+WARN [07-07|23:08:30.466] Upgrade blockchain database version      from=<nil> to=8
+INFO [07-07|23:08:30.467] Loaded most recent local header          number=0 hash="d4e567…cb8fa3" td=17179869184 age=53y3mo1w
+INFO [07-07|23:08:30.467] Loaded most recent local full block      number=0 hash="d4e567…cb8fa3" td=17179869184 age=53y3mo1w
+INFO [07-07|23:08:30.467] Loaded most recent local fast block      number=0 hash="d4e567…cb8fa3" td=17179869184 age=53y3mo1w
+INFO [07-07|23:08:30.470] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [07-07|23:08:30.477] Allocated fast sync bloom                size=512.00MiB
+INFO [07-07|23:08:30.479] Starting peer-to-peer node               instance=Geth/v1.9.25-stable-e7872729/windows-amd64/go1.15.6
+INFO [07-07|23:08:30.497] New local node record                    seq=1 id=493432cd55ca5834 ip=127.0.0.1 udp=0 tcp=30303
+INFO [07-07|23:08:30.498] Started P2P networking                   self="enode://e2ae71de800a3bdab23bb678c9e94ca1523f34f01bb96a2e37f2534f5a99c3f8d3faef94b4f7a42f7257d7de00fc5696032de0f3dd65ef0ce9fa69d209d5a6a4@127.0.0.1:30303?discport=0"
+INFO [07-07|23:08:30.498] IPC endpoint opened                      url=\\.\pipe\geth.ipc
+INFO [07-07|23:08:30.509] HTTP server started                      endpoint=127.0.0.1:8545 cors=* vhosts=localhost
+INFO [07-07|23:08:30.556] Initialized fast sync bloom              items=12356 errorrate=0.000 elapsed=77.074ms
+WARN [07-07|23:08:30.558] Served eth_coinbase                      reqid=3 t=0s err="etherbase must be explicitly specified"
+INFO [07-07|23:08:47.320] Your new key was generated               address=0xd0176F453C7708bf7F0CB4429877a071a915A5A0
+WARN [07-07|23:08:47.320] Please backup your key file!             path="C:\\Users\\MyungJoe Kang\\Desktop\\대학원\\[ASK 2022]\\nft-based-bass\\private_net\\keystore\\UTC--2022-07-07T14-08-45.733403300Z--d0176f453c7708bf7f0cb4429877a071a915a5a0"
+WARN [07-07|23:08:47.320] Please remember your password! 
+INFO [07-07|23:14:49.404] HTTP server stopped                      endpoint=127.0.0.1:8545
+INFO [07-07|23:14:49.404] IPC endpoint closed                      url=\\.\pipe\geth.ipc
+INFO [07-07|23:14:49.471] Deallocated fast sync bloom              items=12356 errorrate=0.000
+INFO [07-07|23:14:49.471] Ethereum protocol stopped 
+INFO [07-07|23:14:49.471] Transaction pool stopped 
+INFO [07-07|23:14:49.471] Writing clean trie cache to disk         path="C:\\Users\\MyungJoe Kang\\Desktop\\대학원\\[ASK 2022]\\nft-based-bass\\private_net\\geth\\triecache" threads=8
+INFO [07-07|23:14:49.481] Persisted the clean trie cache           path="C:\\Users\\MyungJoe Kang\\Desktop\\대학원\\[ASK 2022]\\nft-based-bass\\private_net\\geth\\triecache" elapsed=9.936ms
+INFO [07-07|23:14:49.481] Blockchain stopped 
+INFO [07-10|00:23:49.454] Maximum peer count                       ETH=50 LES=0 total=50
+INFO [07-10|00:23:49.885] Set global gas cap                       cap=25000000
+INFO [07-10|00:23:49.886] Allocated trie memory caches             clean=256.00MiB dirty=256.00MiB
+INFO [07-10|00:23:49.886] Allocated cache and file handles         database="C:\\Users\\MyungJoe Kang\\Desktop\\대학원\\[ASK 2022]\\nft-based-baas\\private_net\\geth\\chaindata" cache=512.00MiB handles=8192
+INFO [07-10|00:23:49.951] Opened ancient database                  database="C:\\Users\\MyungJoe Kang\\Desktop\\대학원\\[ASK 2022]\\nft-based-baas\\private_net\\geth\\chaindata\\ancient"
+INFO [07-10|00:23:49.953] Initialised chain configuration          config="{ChainID: 33 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: <nil> Constantinople: <nil> Petersburg: <nil> Istanbul: <nil>, Muir Glacier: <nil>, YOLO v2: <nil>, Engine: unknown}"
+INFO [07-10|00:23:49.953] Disk storage enabled for ethash caches   dir="C:\\Users\\MyungJoe Kang\\Desktop\\대학원\\[ASK 2022]\\nft-based-baas\\private_net\\geth\\ethash" count=3
+INFO [07-10|00:23:49.953] Disk storage enabled for ethash DAGs     dir="C:\\Users\\MyungJoe Kang\\AppData\\Local\\Ethash" count=2
+INFO [07-10|00:23:49.953] Initialising Ethereum protocol           versions="[65 64 63]" network=10 dbversion=<nil>
+WARN [07-10|00:23:49.953] Upgrade blockchain database version      from=<nil> to=8
+INFO [07-10|00:23:49.955] Loaded most recent local header          number=0 hash="c29fd1…35d509" td=1 age=53y3mo1w
+INFO [07-10|00:23:49.955] Loaded most recent local full block      number=0 hash="c29fd1…35d509" td=1 age=53y3mo1w
+INFO [07-10|00:23:49.955] Loaded most recent local fast block      number=0 hash="c29fd1…35d509" td=1 age=53y3mo1w
+INFO [07-10|00:23:49.958] Regenerated local transaction journal    transactions=0 accounts=0
+INFO [07-10|00:23:49.967] Allocated fast sync bloom                size=512.00MiB
+INFO [07-10|00:23:49.967] Initialized fast sync bloom              items=0 errorrate=0.000 elapsed=0s
+INFO [07-10|00:23:49.970] Starting peer-to-peer node               instance=Geth/v1.9.25-stable-e7872729/windows-amd64/go1.15.6
+INFO [07-10|00:23:50.006] New local node record                    seq=1 id=054806e3d31c00ad ip=127.0.0.1 udp=0 tcp=30303
+INFO [07-10|00:23:50.006] Started P2P networking                   self="enode://d511c04bc43187ecb02daf2430cf1da0775015a8816521c01d94b88cdea05383cba0d1641f645486eb4d6949603c8e2a4c71966ba39d186bd18c5afed29961ac@127.0.0.1:30303?discport=0"
+INFO [07-10|00:23:50.007] IPC endpoint opened                      url=\\.\pipe\geth.ipc
+INFO [07-10|00:23:50.017] HTTP server started                      endpoint=127.0.0.1:8545 cors=* vhosts=localhost
+WARN [07-10|00:23:50.076] Served eth_coinbase                      reqid=3 t=0s err="etherbase must be explicitly specified"
+INFO [07-10|00:23:52.737] Mapped network port                      proto=tcp extport=30303 intport=30303 interface="UPNP IGDv2-IP1"
+INFO [07-10|00:24:07.200] Your new key was generated               address=0xf1E61743BfBcDF9979ba59Da1C12A2bc186daFfa
+WARN [07-10|00:24:07.200] Please backup your key file!             path="C:\\Users\\MyungJoe Kang\\Desktop\\대학원\\[ASK 2022]\\nft-based-baas\\private_net\\keystore\\UTC--2022-07-09T15-24-05.569318000Z--f1e61743bfbcdf9979ba59da1c12a2bc186daffa"
+WARN [07-10|00:24:07.200] Please remember your password! 
+INFO [07-10|00:24:09.702] HTTP server stopped                      endpoint=127.0.0.1:8545
+INFO [07-10|00:24:09.702] IPC endpoint closed                      url=\\.\pipe\geth.ipc
+INFO [07-10|00:24:09.744] Deallocated fast sync bloom              items=0 errorrate=0.000
+INFO [07-10|00:24:09.744] Ethereum protocol stopped 
+INFO [07-10|00:24:09.744] Transaction pool stopped 
+INFO [07-10|00:24:09.744] Writing clean trie cache to disk         path="C:\\Users\\MyungJoe Kang\\Desktop\\대학원\\[ASK 2022]\\nft-based-baas\\private_net\\geth\\triecache" threads=8
+ERROR[07-10|00:24:09.762] Failed to persist clean trie cache       error="cannot move temporary dir \"C:\\\\Users\\\\MyungJoe Kang\\\\Desktop\\\\대학원\\\\[ASK 2022]\\\\nft-based-baas\\\\private_net\\\\geth\\\\fastcache.tmp.736759422\" to \"C:\\\\Users\\\\MyungJoe Kang\\\\Desktop\\\\대학원\\\\[ASK 2022]\\\\nft-based-baas\\\\private_net\\\\geth\\\\triecache\": rename C:\\Users\\MyungJoe Kang\\Desktop\\대학원\\[ASK 2022]\\nft-based-baas\\private_net\\geth\\fastcache.tmp.736759422 C:\\Users\\MyungJoe Kang\\Desktop\\대학원\\[ASK 2022]\\nft-based-baas\\private_net\\geth\\triecache: Access is denied."
+INFO [07-10|00:24:09.762] Blockchain stopped 
