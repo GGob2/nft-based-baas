@@ -1,0 +1,13 @@
+eth.accounts
+eth.getBlock(0)
+miner.start(4)
+eth.coinbase
+eth.getBalance(eth.coinbase)
+eth.getBalance(eth.accounts[0])
+miner.stop()
+eth.accounts
+miner.start(2)
+eth.getBalance(eth.coinbase)
+miner.stop()
+miner.start(1)
+miner.stop()
